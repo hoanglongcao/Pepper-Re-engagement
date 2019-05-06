@@ -1,0 +1,74 @@
+Hello, I am Pepper.
+I am a social robot.
+Today I am going to give a brief explanation of social robots.
+I will explain what social robots are and where we are being used.
+First, you need to know what a social robot is.
+A social robot can be defined as an autonomous robot that interacts and communicates with humans.
+It also needs to follow the behavioral norms of humans interaction.
+This means I need to act like you would act with another person.
+In order to react and respond appropriately to your actions I need to be able to interpret them.
+The communication between us can also be verbal or not.
+This complicates the interaction, since your ways of communication vary a lot.
+A big part of human communication is the expression of emotions and moods.
+To have a better communication with you, I also try to express my mood and emotions.
+You mostly express emotions nonverbally.
+You use posture, gestures body movement, facial expressions and sounds to do it.
+As a social robot I try to do the same.
+I can not show my emotions with facial gestures, but there are some robots that can.
+For example, Kismet.
+Kismet can show a different range of facial gestures.
+Unlike you or Kismet, I am can not do it like that.
+I can however do it with body language.
+The reason I can show a different range of emotions is because researches have studied different ways to model human emotions.
+The are several different models.
+Each model has its own variables.
+Each model also has different emotions.
+One of the most used models is the Circumplex Model of Affect.
+A psychologist named Russel develop it.
+In this particular case, the model has two different variables: Valence and Arousal.
+I can show different emotions thanks to different models of human emotions. 
+There are several different models of human emotions.
+Each model has different variables and uses different basic emotions.
+Another important model is the OCC model. 
+It was developed by Ortony, Clore and Collins.
+This model has 22 emotions.
+One of the main challenges for social robots is deciding the basic emotions.
+Humans can not agree which are the basic emotions.
+Which emotions should I use when I interact with you then?
+Since social robots are being used more each day, I should be able to show emotions that you could easily recognize.
+There are several different social robots.
+Each robot can interact in different ways with humans.
+There is Kismet, that can show facial gestures.
+Or robots like Nao and me who can use voice and body language to do it.
+There is also robots like Sophia, that can use both body language and facial gestures.
+All these examples are a very specific group of social robots.
+They are humanoid social robots, which mean they resemble humans.
+There are however other kind of social robots, those that do not have human appearance.
+Paro, a seal robot that was designed to interact with elderly patients.
+There is also Probo, design to be used with children with autism.
+Robots, can have a various range of shapes and forms.
+The function each robot is going to have an impact in its design.
+Normally social robots tend to resemble humans to empathize with them.
+If we look and react like you, it is easier for you to understand and interact with us.
+That is why social robots are a field of study today.
+There are other cases when we better have other appearance, like in the case with Probo.
+The task we can do also depend on the function we are needed for.
+Kismet for example was developed for research purposes.
+Paro is a seal robot that was developed for health therapy, so he responds to petting, movement and sound.
+Sophia has design to be as humanlike as possible and react as human.
+Nao, was design for education and research.
+He tends to work mostly with children because of his small size.
+I on the other hand was design for human interaction and be able to interpret your emotions.
+That is why I have different cameras and sensors to be able to detect your mood and emotions.
+A larger robot than me called Romeo is being design for assisting the elderly.
+Robots in general are being used more each day.
+From industry to house chores, robots are becoming part of your daily lives.
+Social robots are also becoming more common every day. 
+We are being used in entertainment, health, education, research and more each day.
+We can do small task to help, or very important ones.
+Cooperation between us is important.
+That will be all for today.
+Thank you very much for your attention.
+Hope you learned something.
+Have a nice day.
+Bye.

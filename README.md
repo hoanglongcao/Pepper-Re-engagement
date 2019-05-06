@@ -5,7 +5,9 @@ The re-engagement system applies different strategies through human-like (non-)v
 
 ## System requirement
 Robot: Pepper
+
 Choregraphe version: 2.5 and above
+
 External devices: No
 
 ## System configuration

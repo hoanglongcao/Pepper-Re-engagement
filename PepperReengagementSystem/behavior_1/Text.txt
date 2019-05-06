@@ -1,0 +1,71 @@
+Hello, I am Pepper.
+I am a social robot.
+Today I am going to give a brief explanation of social robots and how do they work.
+First, you need to know what a social robot is.
+A social robot can be defined as an autonomous robot that interacts and communicates with humans.
+This robot follows the behavioral norms of human interaction.
+The communication between us can be either verbal or not. 
+When humans communicate with each other, they express their emotions and moods.
+Normally, emotions are expressed nonverbally.
+^start(animations/Stand/Gestures/Explain_1) Posture ^wait(animations/Stand/Gestures/Explain_1), body movement and sound help in the interaction.
+Since I am a social robot, I am also able to do this.
+I am not able to show my emotions with facial gestures.
+But, I can do it with body language.
+In order for us, robots, to show emotions, researchers have used different models of human emotions.
+There are different models, each with its own different variables and basic emotions.
+One of the most common ones for social robots is the Circumplex Model of Affect.
+It was developed by a psychologist named Russel.
+This model has two main dimensions: Valence and Arousal.
+Other popular model is the OCC model, develop by Ortony, Clore and Collins.
+This model has 22 emotions.
+That is a lot of emotions.
+Talking about emotions, that is one of my main difficulties.
+Which are the basic emotions of humans?
+Psychologist have not been able to come to an agreement.
+At least happiness is in most of them. 
+I need to show emotions like human, to make our interactions easier.
+Since we are being used more each day, it is better of us to behave and communicate like you do.
+There are robots like Kismet, that can use a lot of facial expression.
+Kismet is one of the most studied robots in this area.
+Kismet creates new emotions by combining different ones.
+I on the other hand use voice and body language.
+Luckily for me, this is one of the best ways to communicate emotions.
+Studies demonstrate that people are naturally good and interpreting emotions.
+To express my emotions, I mimic your way of movement.
+Then I modify parameters when I change how I feel.
+Once, again researches do not completely agree which are the best parameter to modify.
+In my case it would be speed and amplitude of movement.
+I also change the way I talk to complement.
+My mood and emotions can change the way I perform a task.
+Sometimes, in order to express how I feel I need to stop my actions.
+To not stop my activity, I can show my mood.
+Moods last longer and are less intense than emotions.
+To show mood with us robots, researches typically modify the range of movement, amplitud and speed.
+Also, body parts that are not performing the task can help.
+One important parameter is the position and state of the hand.
+Have you pay attention to my hands?
+I have focused on me until know.
+However, communication also involves you.
+In order to have a more natural communication between us I also need to interpret your emotions.
+In fact, one of my abilities is to detect your emotions.
+I can recognize the basic emotion.
+In my case the basic emotions are four.
+Sad, happy, angry and surprised.
+Since, I can detect your emotions, I can modify my behavior to fit yours.
+I can also detect where you are looking, and if you are looking me or not.
+Have you been paying attention?
+To detect your gaze and your emotions I need to use facial recognition.
+I have many cameras to do this.
+I can even learn to recognize different faces.
+There are a lot of reasons to improve our interaction.
+We are being used more each day.
+Social robots are used for education, entertainment, health care, personal companions and more.
+We will eventually become a more present part of your daily lives.
+That is the reason research in behavioral systems for social robots is important.
+The better I can communicate with you, the better I can help you make your life easier.
+Cooperation between us is important.
+That would be all for today. 
+Thank you very much for your attention.
+Hope you learned something.
+Have a nice day.
+Bye!

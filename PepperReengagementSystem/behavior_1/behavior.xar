@@ -929,17 +929,43 @@ class MyClass(GeneratedClass):
                                         self.questioncounter=0
                                         self.question=False
 
+                        ##TODO: Replace this comment/uncomment by parameter in Choregraphe
+                        ##Emotion behavior for reengagement behaviors only (comment/uncomment)
+                        #if self.emotions==True: #if emotion on change voice parameters
+                            # Parameters are decided emperically - feel free to find direction of adapting
+                            #self.modifier=""
+                            ##self.speed=int(80+percentage*(120-80))#The value between 50 and 400 in %. Default value is 100.
+                            #self.speed=int(80+(1-percentage)*(120-80))#The value between 50 and 400 in %. Default value is 100.
+                            #self.volume=int(60+percentage*(100-60))#between 70-90.
+                            ##self.volume=int(60+(1-percentage)*(100-60))#between 70-90.
+    #                       # self.wait=int(0+(1-percentage)*(3-0))
+                            ##self.pause=int(100+percentage*(400-100))
+                            #self.pause=int(100+(1-percentage)*(400-100))
+                            #self.modifier=self.modifier+"\\rspd="+str(self.speed)+"\\"
+    #                       # self.modifier=self.modifier+"\\wait="+str(self.wait)+"\\"
+                            #self.modifier=self.modifier+"\\pau="+str(self.pause)+"\\"
+                            #self.modifier=self.modifier+"\\vol="+str(self.volume)+"\\"
+                            #sentence=self.modifier+sentence
+    #                       # self.tts.say("vol:"+str(self.volume))
+                        #End of emotion behavior
+
                     else:
                         self.behavior=0
                     #end of  engagement choosing
-                    sentence="\\style=neutral\\"+sentence
+                    # How the robot start telling story (neutral or joyful)
+                    sentence="\\style=neutral\\"+sentencesentence="\\style=neutral\\"+sentence
+                    #sentence="\\style=joyful\\"+sentencesentence="\\style=neutral\\"+sentence
 
-                    ##Emotion behavior
+                    ##Emotion behavior for all behaviors (comment/uncomment)
                     if self.emotions==True: #if emotion on change voice parameters
+                        # Parameters are decided emperically - feel free to find direction of adapting
                         self.modifier=""
+                        #self.speed=int(80+percentage*(120-80))#The value between 50 and 400 in %. Default value is 100.
                         self.speed=int(80+(1-percentage)*(120-80))#The value between 50 and 400 in %. Default value is 100.
                         self.volume=int(60+percentage*(100-60))#between 70-90.
+                        #self.volume=int(60+(1-percentage)*(100-60))#between 70-90.
 #                        self.wait=int(0+(1-percentage)*(3-0))
+                        #self.pause=int(100+percentage*(400-100))
                         self.pause=int(100+(1-percentage)*(400-100))
                         self.modifier=self.modifier+"\\rspd="+str(self.speed)+"\\"
 #                        self.modifier=self.modifier+"\\wait="+str(self.wait)+"\\"

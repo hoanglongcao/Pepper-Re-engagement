@@ -1,6 +1,7 @@
 Hello, I am Pepper.
 I am a social robot.
 Today I am going to give a brief explanation of social robots.
+You're likely to work with us in the future.
 I will explain what social robots are and where we are being used.
 First, you need to know what a social robot is.
 A social robot can be defined as an autonomous robot that interacts and communicates with humans.

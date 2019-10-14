@@ -3,6 +3,10 @@
 ## System description
 The re-engagement system applies different strategies through human-like (non-)verbal behaviors to regain user's engagement taking into account user's attention level and affective states.
 
+Note1: The robot behavior structure is available with pre-selected system parameters. They are subject to changes and update.
+
+Note2: Some strategies are placed in different positions in the software structure. Developers should carefully choose the pre-developed re-engagement strategies depending on how you want the robot to behave (styles, personalities).
+
 ## System requirement
 Robot: Pepper
 

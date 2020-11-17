@@ -23,3 +23,6 @@ The re-engagement system can be switched on and off by setting Parameters of the
 
 ## Log files
 Log files can be downloaded using File Transfer function of Choregraphe.
+
+## Publicatioon
+Cao, H.L., Torrico Moron, P.C., Esteban, P.G., De Beir, A., Bagheri, E., Lefeber, D. and Vanderborght, B., 2019. “Hmm, Did You Hear What I Just Said?”: Development of a Re-Engagement System for Socially Interactive Robots. Robotics, 8(4), p.95.
